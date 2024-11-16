@@ -1,0 +1,17 @@
+D:\E-commerce project\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+D:\E-commerce project\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+D:\E-commerce project\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+D:\E-commerce project\Talabat.Services\bin\Debug\net6.0\Talabat.Core.dll
+D:\E-commerce project\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.dll
+D:\E-commerce project\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\E-commerce project\Talabat.Services\bin\Debug\net6.0\Talabat.Core.pdb
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\Talabat..D0FE60AD.Up2Date
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+D:\E-commerce project\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll

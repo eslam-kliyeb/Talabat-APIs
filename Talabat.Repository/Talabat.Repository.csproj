@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.35">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Talabat.Core\Talabat.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CQRS\BrandRepository\Commands\" />
+    <Folder Include="CQRS\DeliveryMethodRepository\Commands\" />
+    <Folder Include="CQRS\ProductRepository\Commands\" />
+    <Folder Include="CQRS\Startup\Commands\" />
+    <Folder Include="CQRS\Startup\Handlers\" />
+    <Folder Include="CQRS\Startup\Interfaces\" />
+    <Folder Include="CQRS\Startup\Queries\" />
+    <Folder Include="CQRS\TypeRepository\Commands\" />
+  </ItemGroup>
+
+</Project>

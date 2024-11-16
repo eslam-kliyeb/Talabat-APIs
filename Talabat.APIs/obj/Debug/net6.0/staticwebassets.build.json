@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "Hash": "hJGy1G0HKfyltaGQbcZK+ZgB2CH6zMUcEIcA9zs7qUc=",
+  "Source": "Talabat.APIs",
+  "BasePath": "_content/Talabat.APIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.APIs\\wwwroot",
+      "Source": "Talabat.APIs",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-core1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/hat-core1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tyrypc54c7",
+      "Integrity": "FXslDccuMjstcHx6ZCYeXIH07adIj4nK5RcwVuM5a14=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-core1.png"
+    },
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-react1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/hat-react1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2722vlpdtt",
+      "Integrity": "njq+S0WwRmU4F5CmQP0XR2lAl9tfvS604dAWMFr+Ofc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-react1.png"
+    },
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-react2.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/hat-react2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rm7m36jqfp",
+      "Integrity": "3cQvt334AfDkNOcVNaPBK/krqYfcOEtfP8Y2YAVCbzA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-react2.png"
+    },
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/sb-ang1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sg60bs5h3l",
+      "Integrity": "RHSXC8SLXZf+MDkNwhphPuvyPAXdYl9yVrj43HxrwII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-ang1.png"
+    },
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/sb-ang2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx1bed13kp",
+      "Integrity": "ay+Vm4gKIf61pxOmVGkY0l3oL7WJn9UQ+ar3BeReR5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-ang2.png"
+    },
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-core1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/sb-core1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ac011r0zl3",
+      "Integrity": "+mQd07GN9yk74owgZw0cPUvNL7yi9VRJwRJR7Cx5Rhg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-core1.png"
+    },
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-core2.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/sb-core2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rtc35nek9w",
+      "Integrity": "UdtfEwJEUCWoOEJLx+jl+WQC50Rex6zxJAeUyLXOHiY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-core2.png"
+    },
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-react1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/sb-react1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvlm6kd9o5",
+      "Integrity": "tEHhlXP5SmSxkta4Oq5ocpH1/InNPnPV3q7LaaTu94I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-react1.png"
+    },
+    {
+      "Identity": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "Images/Products/sb-ts1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pxg9jyu8os",
+      "Integrity": "/VhVTJIDNcooT8Bwe4QajDcv87edWjriA1XQFyjHLq0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-ts1.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/Products/hat-core1.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "612749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXslDccuMjstcHx6ZCYeXIH07adIj4nK5RcwVuM5a14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:12:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXslDccuMjstcHx6ZCYeXIH07adIj4nK5RcwVuM5a14="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hat-core1.tyrypc54c7.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "612749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXslDccuMjstcHx6ZCYeXIH07adIj4nK5RcwVuM5a14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:12:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tyrypc54c7"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/hat-core1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXslDccuMjstcHx6ZCYeXIH07adIj4nK5RcwVuM5a14="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hat-react1.2722vlpdtt.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njq+S0WwRmU4F5CmQP0XR2lAl9tfvS604dAWMFr+Ofc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2722vlpdtt"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/hat-react1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-njq+S0WwRmU4F5CmQP0XR2lAl9tfvS604dAWMFr+Ofc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hat-react1.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njq+S0WwRmU4F5CmQP0XR2lAl9tfvS604dAWMFr+Ofc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-njq+S0WwRmU4F5CmQP0XR2lAl9tfvS604dAWMFr+Ofc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hat-react2.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-react2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3cQvt334AfDkNOcVNaPBK/krqYfcOEtfP8Y2YAVCbzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3cQvt334AfDkNOcVNaPBK/krqYfcOEtfP8Y2YAVCbzA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hat-react2.rm7m36jqfp.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\hat-react2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3cQvt334AfDkNOcVNaPBK/krqYfcOEtfP8Y2YAVCbzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm7m36jqfp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/hat-react2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3cQvt334AfDkNOcVNaPBK/krqYfcOEtfP8Y2YAVCbzA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-ang1.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHSXC8SLXZf+MDkNwhphPuvyPAXdYl9yVrj43HxrwII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:20:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHSXC8SLXZf+MDkNwhphPuvyPAXdYl9yVrj43HxrwII="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-ang1.sg60bs5h3l.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHSXC8SLXZf+MDkNwhphPuvyPAXdYl9yVrj43HxrwII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:20:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sg60bs5h3l"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sb-ang1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHSXC8SLXZf+MDkNwhphPuvyPAXdYl9yVrj43HxrwII="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-ang2.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ay+Vm4gKIf61pxOmVGkY0l3oL7WJn9UQ+ar3BeReR5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:12:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ay+Vm4gKIf61pxOmVGkY0l3oL7WJn9UQ+ar3BeReR5A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-ang2.xx1bed13kp.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ay+Vm4gKIf61pxOmVGkY0l3oL7WJn9UQ+ar3BeReR5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:12:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx1bed13kp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sb-ang2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ay+Vm4gKIf61pxOmVGkY0l3oL7WJn9UQ+ar3BeReR5A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-core1.ac011r0zl3.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+mQd07GN9yk74owgZw0cPUvNL7yi9VRJwRJR7Cx5Rhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:20:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ac011r0zl3"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sb-core1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+mQd07GN9yk74owgZw0cPUvNL7yi9VRJwRJR7Cx5Rhg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-core1.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-core1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+mQd07GN9yk74owgZw0cPUvNL7yi9VRJwRJR7Cx5Rhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:20:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+mQd07GN9yk74owgZw0cPUvNL7yi9VRJwRJR7Cx5Rhg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-core2.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-core2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UdtfEwJEUCWoOEJLx+jl+WQC50Rex6zxJAeUyLXOHiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:20:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UdtfEwJEUCWoOEJLx+jl+WQC50Rex6zxJAeUyLXOHiY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-core2.rtc35nek9w.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-core2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UdtfEwJEUCWoOEJLx+jl+WQC50Rex6zxJAeUyLXOHiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:20:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtc35nek9w"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sb-core2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UdtfEwJEUCWoOEJLx+jl+WQC50Rex6zxJAeUyLXOHiY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-react1.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tEHhlXP5SmSxkta4Oq5ocpH1/InNPnPV3q7LaaTu94I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:13:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tEHhlXP5SmSxkta4Oq5ocpH1/InNPnPV3q7LaaTu94I="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-react1.wvlm6kd9o5.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-react1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tEHhlXP5SmSxkta4Oq5ocpH1/InNPnPV3q7LaaTu94I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:13:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvlm6kd9o5"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sb-react1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tEHhlXP5SmSxkta4Oq5ocpH1/InNPnPV3q7LaaTu94I="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-ts1.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/VhVTJIDNcooT8Bwe4QajDcv87edWjriA1XQFyjHLq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:12:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/VhVTJIDNcooT8Bwe4QajDcv87edWjriA1XQFyjHLq0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sb-ts1.pxg9jyu8os.png",
+      "AssetFile": "D:\\E-commerce project\\Talabat.APIs\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/VhVTJIDNcooT8Bwe4QajDcv87edWjriA1XQFyjHLq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 May 2023 15:12:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxg9jyu8os"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sb-ts1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/VhVTJIDNcooT8Bwe4QajDcv87edWjriA1XQFyjHLq0="
+        }
+      ]
+    }
+  ]
+}
